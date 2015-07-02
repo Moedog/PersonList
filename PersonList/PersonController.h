@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "PersonController.h"
 #import "Person.h"
 
 @interface PersonController : NSObject
